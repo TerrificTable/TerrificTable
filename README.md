@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @TerrificTable55
-- 👀 I’m interested in Video Editing, Coding and other stuff
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on idk something where i can learn stuff
-- 📫 How to reach me 
+- I’m @TerrificTable55
+- I like in Video Editing, Coding and other stuff
+- I’m currently learning Java
+- you can reach me:
   - Discord: TerrificTable55#3577
   - Email: omegagaming189@gmail.com
 
