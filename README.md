@@ -7,6 +7,6 @@ You can reach me at:
 
 I can use:
   - ![ ](https://via.placeholder.com/15/1589F0/000000?text=+) `Python`
-  - <font color="brown"> Java </font>
+  - style="color:brown;">Java</span>
   - <font color="dark-blue"> Lua </font>
   - <font color="green"> (C#) </font>
