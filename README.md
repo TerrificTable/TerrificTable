@@ -4,3 +4,9 @@
 
 You can reach me at:
   - Discord: TerrificTable55™#0001
+
+I can use:
+  - Python
+  - Java
+  - Lua
+  - (C#)
