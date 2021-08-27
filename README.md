@@ -6,7 +6,7 @@ You can reach me at:
   - Discord: TerrificTable55™#0001
 
 I can use:
-  - Python
-  - Java
-  - Lua
-  - (C#)
+  - <font color="blue"> Python </font>
+  - <font color="brown"> Java </font>
+  - <font color="dark-blue"> Lua </font>
+  - <font color="green"> (C#) </font>
