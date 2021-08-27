@@ -6,7 +6,7 @@ You can reach me at:
   - Discord: TerrificTable55™#0001
 
 I can use:
-  - <font color="blue"> Python </font>
+  - ![ ](https://via.placeholder.com/15/1589F0/000000?text=+) `Python`
   - <font color="brown"> Java </font>
   - <font color="dark-blue"> Lua </font>
   - <font color="green"> (C#) </font>
