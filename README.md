@@ -7,6 +7,6 @@ You can reach me at:
 
 I can use:
   - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Python`
-  - ![#00005f](https://via.placeholder.com/15/00005f/000000?text=+) `Java`
-  - ![#875f00](https://via.placeholder.com/15/875f00/000000?text=+) `Lua`
+  - ![#875f00](https://via.placeholder.com/15/875f00/000000?text=+) `Java`
+  - ![#00005f](https://via.placeholder.com/15/00005f/000000?text=+) `Lua`
   - ![#008700](https://via.placeholder.com/15/008700/000000?text=+) `(C#)`
