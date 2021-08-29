@@ -10,3 +10,4 @@ I can use:
   - ![#875f00](https://via.placeholder.com/15/875f00/000000?text=+) `Java`
   - ![#00005f](https://via.placeholder.com/15/00005f/000000?text=+) `Lua`
   - ![#008700](https://via.placeholder.com/15/008700/000000?text=+) `(C#)`
+  - ![#d75f00](https://via.placeholder.com/15/d75f00/000000?text=+) `(HTML)`
