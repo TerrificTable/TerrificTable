@@ -11,6 +11,6 @@ I can use:
   - ![#00005f](https://via.placeholder.com/15/00005f/000000?text=+) `Lua`
 
 I'm learning:
-  - ![#008700](https://via.placeholder.com/15/008700/000000?text=+) `(C#)`
-  - ![#d75f00](https://via.placeholder.com/15/d75f00/000000?text=+) `(HTML)`
-  - ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `(JS)`
+  - ![#008700](https://via.placeholder.com/15/008700/000000?text=+) `C#`
+  - ![#d75f00](https://via.placeholder.com/15/d75f00/000000?text=+) `HTML`
+  - ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `JS`
