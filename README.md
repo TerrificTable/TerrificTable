@@ -3,7 +3,7 @@
 (this isnt 100% acurate)
 
 You can reach me at:
-  - Discord: TerrificTable55™#0001
+  - Discord: TerrificTable55™#5297
 
 I can use:
   - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Python`
