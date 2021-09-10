@@ -9,8 +9,9 @@ I can use:
   - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Python`
   - ![#875f00](https://via.placeholder.com/15/875f00/000000?text=+) `Java`
   - ![#00005f](https://via.placeholder.com/15/00005f/000000?text=+) `Lua`
-
-I'm learning:
-  - ![#008700](https://via.placeholder.com/15/008700/000000?text=+) `C#`
   - ![#d75f00](https://via.placeholder.com/15/d75f00/000000?text=+) `HTML`
+  - ![#008700](https://via.placeholder.com/15/008700/000000?text=+) `C#`
+  - 
+I'm learning:
+  - ![#008700](https://via.placeholder.com/15/008700/000000?text=+) `php`
   - ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `JS`
