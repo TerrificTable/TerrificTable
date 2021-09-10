@@ -8,12 +8,12 @@ You can reach me at:
 I can use:
   - ![#3572A5](https://via.placeholder.com/15/3572A5/000000?text=+) `Python`
   - ![#b07219](https://via.placeholder.com/15/b07219/000000?text=+) `Java`
-  - ![#00005f](https://via.placeholder.com/15/00005f/000000?text=+) `Lua`
-  - ![#d75f00](https://via.placeholder.com/15/d75f00/000000?text=+) `HTML`
-  - ![#008700](https://via.placeholder.com/15/008700/000000?text=+) `C#`
-  - 
+  - ![#e44b23](https://via.placeholder.com/15/e44b23/000000?text=+) `HTML`
+  - ![#178600](https://via.placeholder.com/15/178600/000000?text=+) `C#`
+  - ![#000080](https://via.placeholder.com/15/000080/000000?text=+) `Lua`
+   
 I'm learning:
-  - ![#008700](https://via.placeholder.com/15/008700/000000?text=+) `PHP`
-  - ![#008700](https://via.placeholder.com/15/008700/000000?text=+) `C`
-  - ![#008700](https://via.placeholder.com/15/008700/000000?text=+) `C++`
+  - ![#4F5D95](https://via.placeholder.com/15/4F5D95/000000?text=+) `PHP`
+  - ![#438eff](https://via.placeholder.com/15/438eff/000000?text=+) `C`
+  - ![#6866fb](https://via.placeholder.com/15/6866fb/000000?text=+) `C++`
   - ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `JS`
