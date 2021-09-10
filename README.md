@@ -13,5 +13,7 @@ I can use:
   - ![#008700](https://via.placeholder.com/15/008700/000000?text=+) `C#`
   - 
 I'm learning:
-  - ![#008700](https://via.placeholder.com/15/008700/000000?text=+) `php`
+  - ![#008700](https://via.placeholder.com/15/008700/000000?text=+) `PHP`
+  - ![#008700](https://via.placeholder.com/15/008700/000000?text=+) `C`
+  - ![#008700](https://via.placeholder.com/15/008700/000000?text=+) `C++`
   - ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `JS`
