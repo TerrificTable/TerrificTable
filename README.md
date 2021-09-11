@@ -1,6 +1,6 @@
 ![](https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/TerrificTable/github-stats/blob/master/generated/languages.svg)
-(this isnt 100% acurate)
+![](https://komarev.com/ghpvc/?username=TerrificTable&label=profile+views)
 
 You can reach me at:
   - Discord: TerrificTable55™#5297
