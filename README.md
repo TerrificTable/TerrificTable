@@ -1,5 +1,6 @@
-![](https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/TerrificTable/github-stats/blob/master/generated/languages.svg)
+<!-- ![](https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/TerrificTable/github-stats/blob/master/generated/languages.svg) -->
+![](https://github-readme-stats.vercel.app/api?username=TerrificTable&show_icons=true&theme=tokyonight)
 
 ![](https://komarev.com/ghpvc/?username=TerrificTable&label=profile+views)
 
