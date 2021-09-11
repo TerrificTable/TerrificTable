@@ -8,6 +8,11 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TerrificTable&theme=tokyonight" />
 </a>
 
+![](https://github.com/TerrificTable)
+<a href="https://github.com/TerrificTable">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerrificTable&theme=tokyonight&hide_langs_below=1" />
+</a>
+
 ![](https://komarev.com/ghpvc/?username=TerrificTable&label=profile+views)
 
 You can reach me at:
