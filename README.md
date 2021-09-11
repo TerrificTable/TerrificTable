@@ -1,5 +1,4 @@
-<!-- ![](https://github-readme-stats.vercel.app/api?username=TerrificTable&show_icons=true&theme=tokyonight)
-![](https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg)
+<!-- ![](https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/TerrificTable/github-stats/blob/master/generated/languages.svg) -->
 
 <a href="https://github.com/TerrificTable">
