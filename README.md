@@ -31,3 +31,8 @@ I'm learning:
   - ![#4F5D95](https://via.placeholder.com/15/4F5D95/000000?text=+) `PHP`
   - ![#6866fb](https://via.placeholder.com/15/6866fb/000000?text=+) `C++`
   - ![#563d7c](https://via.placeholder.com/15/563d7c/000000?text=+) `CSS`
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gopro336&theme=nord&margin-w=15&margin-h=15&column=7" />
+</p>
