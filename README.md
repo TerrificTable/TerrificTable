@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://github.com/TerrificTable">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerrificTable&theme=tokyonight&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerrificTable&theme=tokyonight&hide_langs_below=1" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=TerrificTable&label=profile+views)
