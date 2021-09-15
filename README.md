@@ -29,8 +29,7 @@ I can use:
   - ![#e44b23](https://via.placeholder.com/15/e44b23/000000?text=+) `HTML`
   - ![#000080](https://via.placeholder.com/15/000080/000000?text=+) `Lua`
   - ![#f1e05a](https://via.placeholder.com/15/f1e05a/000000?text=+) `JS`
-  - 
-   
+ 
 I know the basics of:
   - ![#4F5D95](https://via.placeholder.com/15/4F5D95/000000?text=+) `PHP`
   - ![#438eff](https://via.placeholder.com/15/438eff/000000?text=+) `C`
