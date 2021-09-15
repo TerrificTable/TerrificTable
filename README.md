@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TerrificTable&theme=nord&margin-w=15&margin-h=15&column=7" />
+</p>
+
 ![](https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/TerrificTable/github-stats/blob/master/generated/languages.svg)
 
@@ -34,9 +38,3 @@ I know the basics of:
    
 I'm learning:
   - ![#563d7c](https://via.placeholder.com/15/563d7c/000000?text=+) `CSS`
-
-
-<!-- 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gopro336&theme=nord&margin-w=15&margin-h=15&column=7" />
-</p> -->
