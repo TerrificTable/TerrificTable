@@ -33,8 +33,8 @@ I can use:
 I know the basics of:
   - ![#4F5D95](https://via.placeholder.com/15/4F5D95/000000?text=+) `PHP`
   - ![#438eff](https://via.placeholder.com/15/438eff/000000?text=+) `C`
-  - ![#6866fb](https://via.placeholder.com/15/6866fb/000000?text=+) `C++`
   - ![#178600](https://via.placeholder.com/15/178600/000000?text=+) `C#`
+  - ![#6866fb](https://via.placeholder.com/15/6866fb/000000?text=+) `C++`
    
 I'm learning:
   - ![#563d7c](https://via.placeholder.com/15/563d7c/000000?text=+) `CSS`
