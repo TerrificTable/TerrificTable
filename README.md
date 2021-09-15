@@ -2,10 +2,13 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TerrificTable&theme=nord&margin-w=15&margin-h=15&column=7" />
 </p> -->
+<p align="center">
+  <img src="https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg" />
+</p>
 
-![](https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/TerrificTable/github-stats/blob/master/generated/languages.svg)
-
+<p align="center">
+  <img src="https://github.com/TerrificTable/github-stats/blob/master/generated/languages.svg" />
+</p>
 <!--
 <a href="https://github.com/TerrificTable">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TerrificTable&show_icons=true&theme=tokyonight&line_height=27%22%20alt=%22FaxHack%27s%20github%20stats" />
