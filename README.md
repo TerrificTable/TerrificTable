@@ -1,6 +1,7 @@
+<!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TerrificTable&theme=nord&margin-w=15&margin-h=15&column=7" />
-</p>
+</p> -->
 
 ![](https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/TerrificTable/github-stats/blob/master/generated/languages.svg)
