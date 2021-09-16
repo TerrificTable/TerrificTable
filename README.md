@@ -37,4 +37,5 @@ I know the basics of:
   - ![#6866fb](https://via.placeholder.com/15/6866fb/000000?text=+) `C++`
    
 I'm learning:
+  - ![#F18E33](https://via.placeholder.com/15/F18E33/000000?text=+) `Kotlin`
   - ![#563d7c](https://via.placeholder.com/15/563d7c/000000?text=+) `CSS`
