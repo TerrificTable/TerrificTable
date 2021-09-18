@@ -31,11 +31,12 @@ I can use:
   - ![#f1e05a](https://via.placeholder.com/15/f1e05a/000000?text=+) `JS`
  
 I know the basics of:
-  - ![#4F5D95](https://via.placeholder.com/15/4F5D95/000000?text=+) `PHP`
   - ![#438eff](https://via.placeholder.com/15/438eff/000000?text=+) `C`
   - ![#178600](https://via.placeholder.com/15/178600/000000?text=+) `C#`
   - ![#6866fb](https://via.placeholder.com/15/6866fb/000000?text=+) `C++`
+  - ![#563d7c](https://via.placeholder.com/15/563d7c/000000?text=+) `CSS`
+  - ![#4F5D95](https://via.placeholder.com/15/4F5D95/000000?text=+) `PHP`
+  - ![#F18E33](https://via.placeholder.com/15/F18E33/000000?text=+) `Kotlin`
    
 I'm learning:
-  - ![#F18E33](https://via.placeholder.com/15/F18E33/000000?text=+) `Kotlin`
-  - ![#563d7c](https://via.placeholder.com/15/563d7c/000000?text=+) `CSS`
+  - How the Languages i know the basics of work so im learning them more
