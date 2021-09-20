@@ -38,7 +38,7 @@ I know the basics of (but im still learning them):
   - ![#4F5D95](https://via.placeholder.com/15/4F5D95/000000?text=+) `PHP`
   - ![#F18E33](https://via.placeholder.com/15/F18E33/000000?text=+) `Kotlin`
    
-I'm learning (languages i dont know (the basics of)):
+I'm learning (languages i dont know):
   - None
   - null
   - NOTHING!
