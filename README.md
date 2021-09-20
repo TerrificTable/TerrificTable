@@ -29,7 +29,7 @@ I can use:
   - ![#e44b23](https://via.placeholder.com/15/e44b23/000000?text=+) `HTML`
   - ![#000080](https://via.placeholder.com/15/000080/000000?text=+) `Lua`
  
-I know the basics of:
+I know the basics of (but im still learning them):
   - ![#438eff](https://via.placeholder.com/15/438eff/000000?text=+) `C`
   - ![#178600](https://via.placeholder.com/15/178600/000000?text=+) `C#`
   - ![#f1e05a](https://via.placeholder.com/15/f1e05a/000000?text=+) `JS`
@@ -39,4 +39,5 @@ I know the basics of:
   - ![#F18E33](https://via.placeholder.com/15/F18E33/000000?text=+) `Kotlin`
    
 I'm learning:
-  - How the Languages i know the basics of work so im learning them more
+  - None
+  - null
