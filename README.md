@@ -4,13 +4,18 @@
 </p>
 -->
 
+<!-- Comit History -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=TerrificTable&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</p>
+
+<!-- Overview of github stats and Languages -- Github Stats-->
 <p align="center">
   <img src="https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg" />
   <img src="https://github.com/TerrificTable/github-stats/blob/master/generated/languages.svg" />
 </p>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=TerrificTable&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</p>
+
+<!-- Github Stats 2 -->
 <!--
 <a href="https://github.com/TerrificTable">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TerrificTable&show_icons=true&theme=tokyonight&line_height=27%22%20alt=%22FaxHack%27s%20github%20stats" />
@@ -24,11 +29,13 @@
 </a> 
 -->
 
+<!-- ProfileViews -->
 ![](https://komarev.com/ghpvc/?username=TerrificTable&label=profile+views)
 
 You can reach me at:
   - Discord: TerrificTable55™#5297
 
+<!-- Programing Languages -->
 I can use:
   - ![#3572A5](https://via.placeholder.com/15/3572A5/000000?text=+) `Python`
   - ![#b07219](https://via.placeholder.com/15/b07219/000000?text=+) `Java`
