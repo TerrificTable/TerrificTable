@@ -8,6 +8,9 @@
   <img src="https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg" />
   <img src="https://github.com/TerrificTable/github-stats/blob/master/generated/languages.svg" />
 </p>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=TerrificTable&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</p>
 <!--
 <a href="https://github.com/TerrificTable">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TerrificTable&show_icons=true&theme=tokyonight&line_height=27%22%20alt=%22FaxHack%27s%20github%20stats" />
@@ -45,7 +48,3 @@ I'm learning (languages i dont know):
   - None
   - null
   - NOTHING!
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=TerrificTable&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
- </p>
