@@ -8,15 +8,10 @@
 @github
 -----------------
 
-OS:         
-Shell:      
-Pronouns:   
-Nickname:   
-Location:   
-Languages:  
-Learning:   
-Hobbies:    
-Discord:    
+OS:         Window
+Languages:  Python Java HTML PHP JS CSS C C# C++ Kotlin
+Learning:   Nothing
+Discord:    TerrificTable55™#5297
                      
 ```
 
