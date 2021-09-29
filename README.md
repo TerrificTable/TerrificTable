@@ -1,5 +1,5 @@
 ```zsh
-> neofetch
+> terrifictable -s [github.com](https://github.com/TerrificTable)
 ```
 
 <img align="left" src="https://raw.githubusercontent.com/5R33CH4/5R33CH4/main/assets/neofetch.png" alt="logo.png" width="350" /> 
