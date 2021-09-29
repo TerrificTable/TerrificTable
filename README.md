@@ -31,6 +31,6 @@ Discord:    TerrificTable55™#5297
 
 ---
 <p align="center">
-  ![](https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg)
-  ![](https://github.com/TerrificTable/github-stats/blob/master/generated/languages.svg)
+  <img src="https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg">
+  <img src="https://github.com/TerrificTable/github-stats/blob/master/generated/languages.svg">
 </p>
