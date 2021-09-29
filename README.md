@@ -30,15 +30,6 @@ Discord:
 </p>
 
 ---
-<p align="center">
-            <a href="https://github.com/5R33CH4/5R33CH4/blob/main/stalk-me.md">
-                        <img src="https://github.com/5R33CH4/backpack/blob/main/svg/badges/stalk-me.svg" alt="stalk-me">
-            </a>
-            ᲼᲼
-            <a href="https://github.com/5R33CH4/5R33CH4/blob/main/about.md">
-                        <img src="https://github.com/5R33CH4/backpack/blob/main/svg/badges/about-me.svg" alt="stalk-me">
-            </a>
-            <br>
-</p>
+
 
 ![](https://komarev.com/ghpvc/?username=5R33CH4&style=flat-square)
