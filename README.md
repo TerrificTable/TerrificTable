@@ -30,6 +30,7 @@ Discord:    TerrificTable55™#5297
 ![](https://komarev.com/ghpvc/?username=TerrificTable&label=profile+views&style=flat-square)
 
 ---
-
-![](https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/TerrificTable/github-stats/blob/master/generated/languages.svg)
+<div >
+  ![](https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg)
+  ![](https://github.com/TerrificTable/github-stats/blob/master/generated/languages.svg)
+</div>
