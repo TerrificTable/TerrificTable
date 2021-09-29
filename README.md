@@ -32,4 +32,5 @@ Discord:
 ---
 
 
-![](https://komarev.com/ghpvc/?username=5R33CH4&style=flat-square)
+<!--![](https://komarev.com/ghpvc/?username=5R33CH4&style=flat-square)-->
+![](https://komarev.com/ghpvc/?username=TerrificTable&label=profile+views)
