@@ -2,7 +2,7 @@
 > php -s github.com/TerrificTable
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/5R33CH4/5R33CH4/main/assets/neofetch.png" alt="logo.png" width="350" /> 
+<img align="left" src="https://raw.githubusercontent.com/TerrificTable/TerrificTable/main/assets/neofetch.png" alt="logo.png" width="350" /> 
 
 ```csharp
 @github
