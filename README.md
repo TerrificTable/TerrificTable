@@ -8,7 +8,7 @@
 @github
 -----------------
 
-OS:         Window
+OS:         Window, Ubuntu
 Languages:  Python Java HTML PHP JS CSS C C# C++ Kotlin
 Learning:   Nothing
 Discord:    TerrificTable55™#5297
