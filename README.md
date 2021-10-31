@@ -16,8 +16,6 @@
 <a href="https://discord.gg/7Pj2vNhdtD">
 <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />   
 </a>
-or just by messaging me on Discord: TerrificTable55™#5297
-
 </br>
 
 ### Languages and Tools :
