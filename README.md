@@ -39,11 +39,12 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 </br>
-<img align="center" alt="Nulled1337's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=TerrificTable&&show_icons=true&theme=tokyonight&layout=compact" />
-</br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TerrificTable&show_icons=true&theme=tokyonight&layout=compact" alt="Nulled1337" />
 <p align="center">
   <br><br>
   <img src="https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg">
   <img src="https://github.com/TerrificTable/github-stats/blob/master/generated/languages.svg">
 </p>
+<br>
+<img align="center" alt="Nulled1337's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=TerrificTable&&show_icons=true&theme=tokyonight&layout=compact" />
+</br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TerrificTable&show_icons=true&theme=tokyonight&layout=compact" alt="Nulled1337" />
