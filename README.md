@@ -1,7 +1,7 @@
 ### Hi there, I'm [TerrificTable](https://terrifictable.github.io) 👋
 
 ![Website](https://img.shields.io/website?label=terrifictable.github.io&style=for-the-badge&url=https%3A%2F%2Fterrifictable.github.io)
-
+![](https://komarev.com/ghpvc/?username=TerrificTable&label=profile+views&style=flat-square)
 ---
 
 ### Discord Status
@@ -43,7 +43,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 </br>
-![](https://komarev.com/ghpvc/?username=TerrificTable&label=profile+views&style=flat-square)
 <p align="center">
   <br><br>
   <img src="https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg">
