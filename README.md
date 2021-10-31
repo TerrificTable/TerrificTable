@@ -35,6 +35,11 @@ or just by messaging me on Discord: TerrificTable55™#5297
 <br />
 <br />
 
+
+### Currently working on
+
+A bot to collect Valorant skins in giveaways automaticaly [<img alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png" />](https://www.python.org/)
+
 ---
 
 <details>
