@@ -43,6 +43,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 </br>
+![](https://komarev.com/ghpvc/?username=TerrificTable&label=profile+views&style=flat-square)
 <p align="center">
   <br><br>
   <img src="https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg">
