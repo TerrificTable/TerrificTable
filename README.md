@@ -15,8 +15,8 @@
 [<img align="left" alt="Nulled1337 | YouTube" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-128.png" />](https://www.youtube.com/channel/UCZvMGjd_O0JNO6sb25BvguQ)
 <a href="https://discord.gg/7Pj2vNhdtD">
 <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />   
-or just by messaging me on Discord: TerrificTable55™
 </a>
+or just by messaging me on Discord: TerrificTable55™#5297
 
 </br>
 
