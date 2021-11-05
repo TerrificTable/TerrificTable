@@ -36,7 +36,8 @@
 
 ### Currently working on
 
-[<img alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png" />](https://www.python.org/) A bot to collect Valorant skins in giveaways automaticaly 
+[<img alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png" />](https://www.python.org/) A bot to collect Valorant skins in giveaways automaticaly   
+A Roblox account gen
 
 ---
 
