@@ -48,7 +48,6 @@ A Roblox account gen
 <br><br>
 <img src="https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg">
 <br>
-
 <img src="https://github.com/TerrificTable/github-stats/blob/master/generated/languages.svg">
 <br>
 
