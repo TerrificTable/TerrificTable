@@ -29,7 +29,7 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-128.png" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png" />](https://github.com/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>](https://code.visualstudio.com/)
-[<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png">]()
+[<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png">](https://atom.io/)
 <br />
 <br />
 
