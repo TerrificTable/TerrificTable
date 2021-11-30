@@ -20,6 +20,7 @@ class TerrificTable(ReadMe):
 
     def __init__(self):
         self.username = "TerrificTable"
+        self.age = "13"
         self.contacts = {
             "Discord": "TerrificTable55™#5297",
             "Email": "terrifictable55@gmail.com"
@@ -30,9 +31,7 @@ class TerrificTable(ReadMe):
         ]
 
         self.operating_system = "Windows, Linux"
-        self.languages = ["Python", "Java", "Kotlin", "JavaScript",
-                          "HTML", "CSS", "SCSS", "C", "C#", "C++", "PHP", "Lua"]
-
+        self.languages = ["Python", "Java", "Kotlin", "JavaScript", "HTML", "CSS", "SCSS", "C", "C#", "C++", "PHP", "Lua"]
         self.workingon = ["Roblox Account Gen", "Serverbased Remote (for a project of me)", "FunCaptcha Bypass"]                  
 ```
 
