@@ -1,5 +1,5 @@
 <div align="center">
-    <h2>Hi there, I'm <a href="https://terrifictable.github.io">TerrificTable</a> 👋<br>
+    <h2>Hi there, I'm <a href="https://terrifictable.github.io">TerrificTable</a> 👋<br><br>
 
 [![Website](https://img.shields.io/website?label=terrifictable.github.io&style=for-the-badge&url=https%3A%2F%2Fterrifictable.github.io)](https://terrifictable.github.io) 
 [![](https://komarev.com/ghpvc/?username=TerrificTable&label=profile+views&style=flat-square)](https://github.com/TerrificTable)
