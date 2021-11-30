@@ -9,7 +9,7 @@
 
 <a href="https://discord.com/users/731220487035813989">
 <img height="80px" src="https://discord.c99.nl/widget/theme-2/731220487035813989.png" />
-</a>
+</a><br>
 
 ```python
 from GitHub import ReadMe
