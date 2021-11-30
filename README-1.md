@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=terrifictable.github.io&style=for-the-badge&url=https%3A%2F%2Fterrifictable.github.io)](https://terrifictable.github.io)
 [![](https://komarev.com/ghpvc/?username=TerrificTable&label=profile+views&style=flat-square)](https://github.com/TerrificTable)
 
-</h>
+---
 
 <div  align="center">
     <h2>Discord Status<br><br>
@@ -36,7 +36,7 @@ class TerrificTable(ReadMe):
         self.workingon = ["Roblox Account Gen", "Serverbased Remote (for a project of me)", "FunCaptcha Bypass"]                  
 ```
 
-</h>
+---
 <details>
   <summary>:zap: GitHub Stats</summary>
 </br>
