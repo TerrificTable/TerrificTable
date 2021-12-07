@@ -36,7 +36,7 @@ class TerrificTable(ReadMe):
 ```
 
 ---
-<details>
+<details align="center">
   <summary>:zap: GitHub Stats</summary>
 </br>
 
