@@ -32,7 +32,7 @@ class TerrificTable(ReadMe):
 
         self.operating_system = "Windows, Linux"
         self.languages = ["Python", "Java", "Kotlin", "JavaScript", "HTML", "CSS", "SCSS", "C", "C#", "C++", "PHP", "Lua"]
-        self.workingon = ["Nothing"]                  
+        self.workingon = ["Nothing, it's  taking way to long to do that"]                  
 ```
 
 ---
