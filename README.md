@@ -37,8 +37,8 @@ class TerrificTable(ReadMe):
         self.notes = dict()
     
     def __note(self):
-        self.notes = ["My public code does not reflect experience or skill level",
-                      "I am not accountable for any of your actions"]
+        self.notes.append("My public code does not reflect experience or skill level")
+        self.notes.append("I am not accountable for any of your actions")
 ```
 
 ---
