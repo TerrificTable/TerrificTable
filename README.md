@@ -34,6 +34,7 @@ class TerrificTable(ReadMe):
         self.operating_system = "Windows, Linux"
         self.languages = ["Python", "Java", "Kotlin", "JavaScript", "HTML", "CSS", "SCSS", "C", "C#", "C++", "PHP", "Lua"]
         self.workingon = ["Nothing, it's  taking way to long to do that"]
+        self.notes = dict()
     
     def __note(self):
         self.notes = ["My public code does not reflect experience or skill level",
