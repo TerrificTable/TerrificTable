@@ -24,11 +24,12 @@ class TerrificTable(ReadMe):
         self.age = "13"
         self.contacts = {
             "Discord": "TerrificTable55™#5297",
+            "Twitter": "@TerrificTable",
             "Email": "terrifictable55@gmail.com"
         }
         self.alises = [
-            "Terrific",
-            "TerrificTable"
+            "Table",
+            "Terrific"
         ]
 
         self.operating_system = "Windows, Linux"
