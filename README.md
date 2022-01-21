@@ -21,7 +21,7 @@ class TerrificTable(ReadMe):
 
     def __init__(self):
         self.username = "TerrificTable"
-        self.age = "13"
+        self.age = "14"
         self.contacts = {
             "Discord": "TerrificTable55™#5297",
             "Twitter": "@TerrificTable",
