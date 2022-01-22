@@ -61,9 +61,9 @@ I am not accountable for any of your actions.
 <details align="center">
   <summary>GitHub Stats</summary>
 <br>
-[![Website](https://img.shields.io/website?label=terrifictable.github.io&style=for-the-badge&url=https%3A%2F%2Fterrifictable.github.io)](https://terrifictable.github.io)
-[![](https://komarev.com/ghpvc/?username=TerrificTable&label=profile+views&style=flat-square)](https://github.com/TerrificTable)
-[![](https://img.shields.io/github/followers/TerrificTable?label=Followers&style=social)](https://github.com/TerrificTable?tab=followers)
+<img src="https://img.shields.io/website?label=terrifictable.github.io&style=for-the-badge&url=https%3A%2F%2Fterrifictable.github.io)](https://terrifictable.github.io">
+<img src="https://komarev.com/ghpvc/?username=TerrificTable&label=profile+views&style=flat-square)](https://github.com/TerrificTable">
+<img src="https://img.shields.io/github/followers/TerrificTable?label=Followers&style=social)](https://github.com/TerrificTable?tab=followers">
  
 <br><br>
 <img src="https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg">
