@@ -34,16 +34,16 @@
 
 2 directory, 15 files
 
-```
-```
+
+
 ➜ ./terrifictable/info.md ~ git:(master) ✗ cat info.md
 """
 My public code does not reflect experience or skill level.
 I am not accountable for any of your actions.
 """
 ➜ ./terrifictable/info.md ~ git:(master) ✗
-```
-```
+
+
 ➜ ./terrifictable/readme.md ~ git:(master) ✗ cat social_media.md
 """
   ・Twitter    -> twitter.com/TerrificTable
@@ -52,4 +52,3 @@ I am not accountable for any of your actions.
   ・Discord    -> TerrificTable55™#5297
 """  
 ➜ ./terrifictable/readme.md ~ git:(master) ✗ 
-```
