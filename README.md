@@ -28,8 +28,7 @@
 |
 ├── Learning
 │   ├── Python -> Mashine learning/AI
-│   ├── More than the basics of C/C#/C++
-│   └── 
+│   └── More than the basics of C/C#/C++
 |
 ├── Backend_Dev.txt
 ├── Frontend_Dev.txt
