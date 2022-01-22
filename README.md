@@ -49,10 +49,11 @@ I am not accountable for any of your actions.
 
 ➜ ./terrifictable/readme.md ~ git:(master) ✗ cat social_media.md
 """
-  ・Twitter    -> twitter.com/TerrificTable
-  ・GitHub     -> github.com/TerrificTable
+  ・Twitter  -> twitter.com/TerrificTable
+  ・GitHub   -> github.com/TerrificTable
   ・YouTube  -> youtube.com/channel/UCZvMGjd_O0JNO6sb25BvguQ
-  ・Discord    -> TerrificTable55™#5297
+  ・Discord  -> TerrificTable55™#5297
+  ・Website  -> [terrifictable.github.io](terrifictable.github.io)
 """  
 ➜ ./terrifictable/readme.md ~ git:(master) ✗ 
 ```
