@@ -1,5 +1,5 @@
 ```
-➜ ./vichy/readme.md ~ git:(master) ✗ screen neofetch
+➜ ./terrifictable/readme.md ~ git:(master) ✗ screen neofetch
 ```
 ```md
  ______            _ ____    ______     __   __       | TerrificTable@github
