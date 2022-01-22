@@ -1,3 +1,7 @@
+<!--
+-->
+
+
 ```
 ➜ ./terrifictable/readme.md ~ git:(master) ✗ screen neofetch
 ```
@@ -52,3 +56,20 @@ I am not accountable for any of your actions.
   ・Discord    -> TerrificTable55™#5297
 """  
 ➜ ./terrifictable/readme.md ~ git:(master) ✗ 
+```
+
+<details align="center">
+  <summary>GitHub Stats</summary>
+<br>
+[![Website](https://img.shields.io/website?label=terrifictable.github.io&style=for-the-badge&url=https%3A%2F%2Fterrifictable.github.io)](https://terrifictable.github.io)
+[![](https://komarev.com/ghpvc/?username=TerrificTable&label=profile+views&style=flat-square)](https://github.com/TerrificTable)
+[![](https://img.shields.io/github/followers/TerrificTable?label=Followers&style=social)](https://github.com/TerrificTable?tab=followers)
+ 
+<br><br>
+<img src="https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg">
+<img src="https://github.com/TerrificTable/github-stats/blob/master/generated/languages.svg">
+<br>
+
+<img align="center" alt="TerrificTable's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=TerrificTable&&show_icons=true&theme=tokyonight&layout=compact" />
+</br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TerrificTable&show_icons=true&theme=tokyonight&layout=compact" alt="TerrificTable" />
