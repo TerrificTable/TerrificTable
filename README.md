@@ -53,7 +53,7 @@ I am not accountable for any of your actions.
   ・GitHub   -> github.com/TerrificTable
   ・YouTube  -> youtube.com/channel/UCZvMGjd_O0JNO6sb25BvguQ
   ・Discord  -> TerrificTable55™#5297
-  ・Website  -> [terrifictable.github.io](terrifictable.github.io)
+  ・Website  -> terrifictable.github.io/
 """  
 ➜ ./terrifictable/readme.md ~ git:(master) ✗ 
 ```
