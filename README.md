@@ -28,10 +28,10 @@
 |
 ├── Learning
 │   ├── Python -> Mashine learning/AI
+│   ├── More about JavaScript
 │   └── More than the basics of C/C#/C++
 |
 ├── Backend_Dev.txt
-├── Frontend_Dev.txt
 ├── info.md
 └── social_media.md
 
