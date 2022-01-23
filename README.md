@@ -6,7 +6,7 @@
 ➜ ./terrifictable/readme.md ~ git:(master) ✗ screen neofetch
 ```
 ```md
- ______            _ ____    ______     __   __       | TerrificTable@github
+ ______            _    _    ______     __   __       | TerrificTable@github
 /_  __/__ ________(_) _(_)__/_  __/__ _/ /  / /__     | ------------
  / / / -_) __/ __/ / _/ / __// / / _ `/ _ \/ / -_)    | 📧・terrifictable55@gmail.com
 /_/  \__/_/ /_/ /_/_//_/\__//_/  \_,_/_.__/_/\__/     | 📝・14 Years old
