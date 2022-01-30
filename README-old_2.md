@@ -8,9 +8,9 @@
 @github
 -----------------
 
-OS:         Window, Ubuntu
+OS:         Window, Linux
 Languages:  Python Java HTML PHP JS CSS C C# C++ Kotlin
-Learning:   Nothing
+Learning:   AI  --  Neural Networks
 Discord:    TerrificTable55™#5297
                      
 ```
