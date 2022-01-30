@@ -60,11 +60,11 @@ I am not accountable for any of your actions.
 <details align="center">
   <summary>GitHub Stats</summary>
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=TerrificTable">
-<br>
 <img src="https://img.shields.io/website?label=terrifictable.github.io&style=for-the-badge&url=https%3A%2F%2Fterrifictable.github.io">
 <img src="https://komarev.com/ghpvc/?username=TerrificTable&label=profile+views&style=flat-square">
 <img src="https://img.shields.io/github/followers/TerrificTable?label=Followers&style=social">
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=TerrificTable">
  
 <br><br>
 <img src="https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg">
