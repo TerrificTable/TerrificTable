@@ -27,7 +27,7 @@
 │   └── Lua
 |
 ├── Learning
-│   ├── Python -> Mashine learning/AI
+│   ├── Python -> Neural-Networks  --  AI  --  Mashine-learning
 │   ├── More about JavaScript
 │   └── More than the basics of C/C#/C++
 |
@@ -41,7 +41,7 @@
 
 ➜ ./terrifictable/info.md ~ git:(master) ✗ cat info.md
 """
-My public code does not reflect experience or skill level.
+Public code does not reflect experience or skill level.
 I am not accountable for any of your actions.
 """
 ➜ ./terrifictable/info.md ~ git:(master) ✗
@@ -49,11 +49,10 @@ I am not accountable for any of your actions.
 
 ➜ ./terrifictable/readme.md ~ git:(master) ✗ cat social_media.md
 """
-  ・Twitter  -> twitter.com/TerrificTable
-  ・GitHub   -> github.com/TerrificTable
   ・YouTube  -> youtube.com/channel/UCZvMGjd_O0JNO6sb25BvguQ
-  ・Discord  -> TerrificTable55™#5297
+  ・Twitter  -> twitter.com/TerrificTable
   ・Website  -> terrifictable.github.io/
+  ・Discord  -> TerrificTable55™#5297
 """  
 ➜ ./terrifictable/readme.md ~ git:(master) ✗ 
 ```
