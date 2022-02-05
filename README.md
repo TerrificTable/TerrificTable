@@ -31,7 +31,7 @@
 │   ├── More about JavaScript
 │   └── More than the basics of C/C#/C++
 |
-├── Backend_Dev.txt
+├── Full_Stack_Dev.txt
 ├── info.md
 └── social_media.md
 
