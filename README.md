@@ -61,6 +61,7 @@ I am not accountable for any of your actions.
   <summary>GitHub Stats</summary>
 <br>
 <img src="https://img.shields.io/website?label=terrifictable.github.io&style=for-the-badge&url=https%3A%2F%2Fterrifictable.github.io">
+<img src="https://img.shields.io/website?label=terrifictable.xyz&style=for-the-badge&url=https%3A%2F%2Fterrifictable.xyz">
 <img src="https://komarev.com/ghpvc/?username=TerrificTable&label=profile+views&style=flat-square">
 <img src="https://img.shields.io/github/followers/TerrificTable?label=Followers&style=social">
 <br>
