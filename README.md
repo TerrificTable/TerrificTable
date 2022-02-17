@@ -33,11 +33,17 @@
 |
 ├── Full_Stack_Dev.txt
 ├── info.md
+├── terrifictable.md
 └── social_media.md
 
-2 directory, 15 files
+2 directory, 16 files
 
 
+➜ ./terrifictable/info.md ~ git:(master) ✗ cat terrifictable.md
+"""
+I'm the king of unfinished projects.
+"""
+➜ ./terrifictable/info.md ~ git:(master) ✗
 
 ➜ ./terrifictable/info.md ~ git:(master) ✗ cat info.md
 """
