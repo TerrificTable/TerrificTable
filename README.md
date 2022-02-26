@@ -27,7 +27,7 @@
 │   └── Lua
 |
 ├── Learning
-│   ├── Python -> Neural-Networks  --  AI  --  Mashine-learning  --  Algorythms
+│   ├── Python -> Neural-Networks  --  AI  --  Mashine-learning  --  Algorithms
 │   ├── More about JavaScript
 │   └── More than the basics of C/C#/C++
 |
