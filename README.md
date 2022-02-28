@@ -38,7 +38,7 @@
 ├── terrifictable.md
 └── social_media.md
 
-2 directory, 16 files
+2 directory, 18 files
 
 
 ➜ ./terrifictable/info.md ~ git:(master) ✗ cat terrifictable.md
