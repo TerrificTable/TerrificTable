@@ -28,6 +28,8 @@
 |
 ├── Learning
 │   ├── Python -> Neural-Networks  --  AI  --  Mashine-learning  --  Algorithms
+│   ├── How OFX Plugins work and how to make them
+│   ├── Shader (https://www.shadertoy.com/)
 │   ├── More about JavaScript
 │   └── More than the basics of C/C#/C++
 |
