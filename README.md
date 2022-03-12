@@ -29,16 +29,14 @@
 ├── Learning
 │   ├── Python -> Neural-Networks  --  AI  --  Mashine-learning  --  Algorithms
 │   ├── How OFX Plugins work / how to make them
-│   ├── Shader (https://www.shadertoy.com/)
-│   ├── More about JavaScript
-│   └── More than the basics of C/C#/C++
+│   └── Shader (https://www.shadertoy.com/)
 |
 ├── Full_Stack_Dev.txt
 ├── info.md
 ├── terrifictable.md
 └── social_media.md
 
-2 directory, 18 files
+2 directory, 16 files
 
 
 ➜ ./terrifictable/info.md ~ git:(master) ✗ cat terrifictable.md
