@@ -28,8 +28,8 @@
 |
 ├── Learning
 │   ├── Python -> Neural-Networks  --  AI  --  Mashine-learning  --  Algorithms
-│   ├── How OFX Plugins work / how to make them
-│   └── Shader (https://www.shadertoy.com/)
+│   ├── Perl
+│   └── Ruby
 |
 ├── Full_Stack_Dev.txt
 ├── info.md
