@@ -82,3 +82,5 @@ I am not accountable for any of your actions.
 <img align="center" alt="TerrificTable's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=TerrificTable&&show_icons=true&theme=tokyonight&layout=compact" />
 </br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TerrificTable&show_icons=true&theme=tokyonight&layout=compact" alt="TerrificTable" />
+
+<!-- Hi -->
