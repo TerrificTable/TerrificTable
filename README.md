@@ -31,12 +31,18 @@
 │   ├── Perl
 │   └── Ruby
 |
+├── Notable Projects
+|   ├── Youtube/TikTok Viewbot
+|   ├── My website/s (terrifictable.github.io | terrifictable.xyz | terrifictable.pw)
+|   ├── My code bin
+|   └── Roblox Account Generator
+|
 ├── Full_Stack_Dev.txt
 ├── info.md
 ├── terrifictable.md
 └── social_media.md
 
-2 directory, 16 files
+3 directory, 20 files
 
 
 ➜ ./terrifictable/info.md ~ git:(master) ✗ cat terrifictable.md
