@@ -47,7 +47,17 @@
 
 ➜ ./terrifictable/info.md ~ git:(master) ✗ cat terrifictable.md
 """
-I'm the king of unfinished projects.
+Personal "Challanges":
+  ・Use other languages then Python
+  ・Learn more than the basics of:
+     ・Ruby
+     ・Perl
+     ・C/C++
+     ・Lua
+     ・Kotlin
+
+Notes:
+  ・I'm the king of unfinished projects.
 """
 ➜ ./terrifictable/info.md ~ git:(master) ✗
 
