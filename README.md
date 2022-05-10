@@ -83,7 +83,8 @@ I am not accountable for any of your actions.
   ・Discord  -> TerrificTable55#6998
 """  
 ➜ ./terrifictable/readme.md ~ git:(master) ✗ 
-``` -->
+``` 
+-->
 
 <details align="center">
   <summary>GitHub Stats</summary>
