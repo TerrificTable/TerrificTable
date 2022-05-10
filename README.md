@@ -1,7 +1,12 @@
-
+```
+ ______            _    _    ______     __   __       | TerrificTable@github
+/_  __/__ ________(_) _(_)__/_  __/__ _/ /  / /__     | ------------
+ / / / -_) __/ __/ / _/ / __// / / _ `/ _ \/ / -_)    | 📧・terrifictable55@gmail.com
+/_/  \__/_/ /_/ /_/_//_/\__//_/  \_,_/_.__/_/\__/     | 📝・1- Years old
+                                                      | 📝・4 Years of Programing```
 
 <img src="https://media.discordapp.net/attachments/944354446337507358/973653965667450890/IMG_20220510_193425_3.jpg" alt="ESP-8266 -> Screen -> Logo & Name" />
-<!-- <img src="https://media.discordapp.net/attachments/944354446337507358/973653952749010994/IMG_20220510_193535_1.jpg" alt="ESP-8266 -> Screen -> Logo & Name; Laptop w/ code" /> -->
+<!-- <img src="https://media.discordapp.net/attachments/944354446337507358/973653952749010994/IMG_20220510_193535_1.jpg" alt="ESP-8266 -> Screen -> Logo & Name; Laptop w/ code" />
 
 
 
@@ -10,11 +15,6 @@
 ➜ ./terrifictable/readme.md ~ git:(master) ✗ screen neofetch
 ```
 ```md
- ______            _    _    ______     __   __       | TerrificTable@github
-/_  __/__ ________(_) _(_)__/_  __/__ _/ /  / /__     | ------------
- / / / -_) __/ __/ / _/ / __// / / _ `/ _ \/ / -_)    | 📧・terrifictable55@gmail.com
-/_/  \__/_/ /_/ /_/_//_/\__//_/  \_,_/_.__/_/\__/     | 📝・1- Years old
-                                                      | 📝・4 Years of Programing
                                                    
 
 
@@ -82,7 +82,7 @@ I am not accountable for any of your actions.
   ・Discord  -> TerrificTable55#6998
 """  
 ➜ ./terrifictable/readme.md ~ git:(master) ✗ 
-```
+``` -->
 
 <details align="center">
   <summary>GitHub Stats</summary>
