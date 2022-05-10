@@ -7,6 +7,39 @@
 ```
 
 <img src="https://media.discordapp.net/attachments/944354446337507358/973653965667450890/IMG_20220510_193425_3.jpg" alt="ESP-8266 -> Screen -> Logo & Name" />
+
+
+
+
+
+<details align="center">
+  <summary>GitHub Stats</summary>
+<br>
+<img href="terrifictable.github.io" src="https://img.shields.io/website?label=terrifictable.github.io&style=for-the-badge&url=https%3A%2F%2Fterrifictable.github.io">
+<img href="terrifictable.xyz" src="https://img.shields.io/website?label=terrifictable.xyz&style=for-the-badge&url=https%3A%2F%2Fterrifictable.xyz">
+<img href="terrifictable.pw" src="https://img.shields.io/website?label=terrifictable.pw&style=for-the-badge&url=https%3A%2F%2Fterrifictable.pw">
+<img src="https://komarev.com/ghpvc/?username=TerrificTable&label=profile+views&style=flat-square">
+<img src="https://img.shields.io/github/followers/TerrificTable?label=Followers&style=social">
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=TerrificTable">
+ 
+<br><br>
+<img src="https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg">
+<img src="https://github.com/TerrificTable/github-stats/blob/master/generated/languages.svg">
+<br>
+
+<img align="center" alt="TerrificTable's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=TerrificTable&&show_icons=true&theme=tokyonight&layout=compact" />
+</br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TerrificTable&show_icons=true&theme=tokyonight&layout=compact" alt="TerrificTable" />
+
+
+
+
+
+
+
+
+
 <!-- <img src="https://media.discordapp.net/attachments/944354446337507358/973653952749010994/IMG_20220510_193535_1.jpg" alt="ESP-8266 -> Screen -> Logo & Name; Laptop w/ code" />
 
 
@@ -84,26 +117,4 @@ I am not accountable for any of your actions.
 """  
 ➜ ./terrifictable/readme.md ~ git:(master) ✗ 
 ``` 
--->
-
-<details align="center">
-  <summary>GitHub Stats</summary>
-<br>
-<img href="terrifictable.github.io" src="https://img.shields.io/website?label=terrifictable.github.io&style=for-the-badge&url=https%3A%2F%2Fterrifictable.github.io">
-<img href="terrifictable.xyz" src="https://img.shields.io/website?label=terrifictable.xyz&style=for-the-badge&url=https%3A%2F%2Fterrifictable.xyz">
-<img href="terrifictable.pw" src="https://img.shields.io/website?label=terrifictable.pw&style=for-the-badge&url=https%3A%2F%2Fterrifictable.pw">
-<img src="https://komarev.com/ghpvc/?username=TerrificTable&label=profile+views&style=flat-square">
-<img src="https://img.shields.io/github/followers/TerrificTable?label=Followers&style=social">
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=TerrificTable">
- 
-<br><br>
-<img src="https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg">
-<img src="https://github.com/TerrificTable/github-stats/blob/master/generated/languages.svg">
-<br>
-
-<img align="center" alt="TerrificTable's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=TerrificTable&&show_icons=true&theme=tokyonight&layout=compact" />
-</br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TerrificTable&show_icons=true&theme=tokyonight&layout=compact" alt="TerrificTable" />
-
 <!-- Hi -->
