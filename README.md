@@ -6,7 +6,7 @@
                                TerrificTable55#6998   | 📝・4-5   Years of Programing
 ```
 
-<img src="blob:https://web.telegram.org/edeae9d3-9aa6-4d3e-8be3-fe2bdb4ffb4a" alt="ESP-8266 -> Screen -> Logo & Name & Button" />
+<img src="https://media.discordapp.net/attachments/944354446337507358/973871659650002954/edeae9d3-9aa6-4d3e-8be3-fe2bdb4ffb4a.jpg" alt="ESP-8266 -> Screen -> Logo & Name & Button" />
 
 
 
