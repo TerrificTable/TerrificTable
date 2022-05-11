@@ -6,7 +6,7 @@
                                TerrificTable55#6998   | 📝・4-5   Years of Programing
 ```
 
-<img src="https://media.discordapp.net/attachments/944354446337507358/973653965667450890/IMG_20220510_193425_3.jpg" alt="ESP-8266 -> Screen -> Logo & Name" />
+<img src="blob:https://web.telegram.org/edeae9d3-9aa6-4d3e-8be3-fe2bdb4ffb4a" alt="ESP-8266 -> Screen -> Logo & Name & Button" />
 
 
 
@@ -40,7 +40,9 @@
 
 
 
-<!-- <img src="https://media.discordapp.net/attachments/944354446337507358/973653952749010994/IMG_20220510_193535_1.jpg" alt="ESP-8266 -> Screen -> Logo & Name; Laptop w/ code" />
+<!-- 
+<img src="https://media.discordapp.net/attachments/944354446337507358/973653965667450890/IMG_20220510_193425_3.jpg" alt="ESP-8266 -> Screen -> Logo & Name" />
+<img src="https://media.discordapp.net/attachments/944354446337507358/973653952749010994/IMG_20220510_193535_1.jpg" alt="ESP-8266 -> Screen -> Logo & Name; Laptop w/ code" />
 
 
 
