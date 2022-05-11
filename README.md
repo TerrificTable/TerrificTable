@@ -2,8 +2,8 @@
  ______            _    _    ______     __   __       | TerrificTable@github
 /_  __/__ ________(_) _(_)__/_  __/__ _/ /  / /__     | ------------
  / / / -_) __/ __/ / _/ / __// / / _ `/ _ \/ / -_)    | 📧・terrifictable55@gmail.com
-/_/  \__/_/ /_/ /_/_//_/\__//_/  \_,_/_.__/_/\__/     | 📝・1?  Years old
-                               TerrificTable55#6998   | 📝・4   Years of Programing
+/_/  \__/_/ /_/ /_/_//_/\__//_/  \_,_/_.__/_/\__/     | 📝・1?    Years old
+                               TerrificTable55#6998   | 📝・4-5   Years of Programing
 ```
 
 <img src="https://media.discordapp.net/attachments/944354446337507358/973653965667450890/IMG_20220510_193425_3.jpg" alt="ESP-8266 -> Screen -> Logo & Name" />
