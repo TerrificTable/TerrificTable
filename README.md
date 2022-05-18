@@ -4,6 +4,11 @@
  / / / -_) __/ __/ / _/ / __// / / _ `/ _ \/ / -_)    | 📧・terrifictable55@gmail.com
 /_/  \__/_/ /_/ /_/_//_/\__//_/  \_,_/_.__/_/\__/     | 📝・1?    Years old
                                TerrificTable55#6998   | 📝・4-5   Years of Programing
+                               
+                                                              
+https://%74%65%72%72%69%66%69%63%74%61%62%6c%65%2e%67%69%74%68%75%62%2e%69%6f/
+https://%74%65%72%72%69%66%69%63%74%61%62%6c%65%2e%78%79%7a/
+https://%74%65%72%72%69%66%69%63%74%61%62%6c%65%2e%70%77/
 ```
 
 <img src="https://media.discordapp.net/attachments/944354446337507358/973871659650002954/edeae9d3-9aa6-4d3e-8be3-fe2bdb4ffb4a.jpg" alt="ESP-8266 -> Screen -> Logo & Name & Button" />
