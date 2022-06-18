@@ -12,116 +12,25 @@ https://%74%65%72%72%69%66%69%63%74%61%62%6c%65%2e%70%77/
 ```
 
 <img src="https://media.discordapp.net/attachments/944354446337507358/973871659650002954/edeae9d3-9aa6-4d3e-8be3-fe2bdb4ffb4a.jpg" alt="ESP-8266 -> Screen -> Logo & Name & Button" />
-
-
-
-
+<br><br><br><br>
 
 <details align="center">
   <summary>GitHub Stats</summary>
-<br>
-<img href="terrifictable.github.io" src="https://img.shields.io/website?label=terrifictable.github.io&style=for-the-badge&url=https%3A%2F%2Fterrifictable.github.io">
-<img href="terrifictable.xyz" src="https://img.shields.io/website?label=terrifictable.xyz&style=for-the-badge&url=https%3A%2F%2Fterrifictable.xyz">
-<img href="terrifictable.pw" src="https://img.shields.io/website?label=terrifictable.pw&style=for-the-badge&url=https%3A%2F%2Fterrifictable.pw">
-<img src="https://komarev.com/ghpvc/?username=TerrificTable&label=profile+views&style=flat-square">
-<img src="https://img.shields.io/github/followers/TerrificTable?label=Followers&style=social">
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=TerrificTable">
- 
-<br><br>
-<img src="https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg">
-<img src="https://github.com/TerrificTable/github-stats/blob/master/generated/languages.svg">
-<br>
+  <br>
+  <img href="terrifictable.github.io" src="https://img.shields.io/website?label=terrifictable.github.io&style=for-the-badge&url=https%3A%2F%2Fterrifictable.github.io">
+  <img href="terrifictable.xyz" src="https://img.shields.io/website?label=terrifictable.xyz&style=for-the-badge&url=https%3A%2F%2Fterrifictable.xyz">
+  <img href="terrifictable.pw" src="https://img.shields.io/website?label=terrifictable.pw&style=for-the-badge&url=https%3A%2F%2Fterrifictable.pw">
+  <img src="https://komarev.com/ghpvc/?username=TerrificTable&label=profile+views&style=flat-square">
+  <img src="https://img.shields.io/github/followers/TerrificTable?label=Followers&style=social">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=TerrificTable">
 
-<img align="center" alt="TerrificTable's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=TerrificTable&&show_icons=true&theme=tokyonight&layout=compact" />
-</br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TerrificTable&show_icons=true&theme=tokyonight&layout=compact" alt="TerrificTable" />
+  <br><br>
+  <img src="https://github.com/TerrificTable/github-stats/blob/master/generated/overview.svg">
+  <img src="https://github.com/TerrificTable/github-stats/blob/master/generated/languages.svg">
+  <br>
 
-
-
-
-
-
-
-
-
-<!-- 
-<img src="https://media.discordapp.net/attachments/944354446337507358/973653965667450890/IMG_20220510_193425_3.jpg" alt="ESP-8266 -> Screen -> Logo & Name" />
-<img src="https://media.discordapp.net/attachments/944354446337507358/973653952749010994/IMG_20220510_193535_1.jpg" alt="ESP-8266 -> Screen -> Logo & Name; Laptop w/ code" />
-
-
-
-
-```
-➜ ./terrifictable/readme.md ~ git:(master) ✗ screen neofetch
-```
-```md
-                                                   
-
-
-➜ ./terrifictable/readme.md ~ git:(master) ✗ tree
-.
-├── Language
-│   ├── Python
-│   ├── Java
-│   ├── HTML_CSS/SCSS
-│   ├── JavaScript
-│   ├── C#
-│   ├── C/C++
-│   ├── Kotlin
-│   ├── PHP
-│   └── Lua
-|
-├── Learning
-│   ├── Python -> Neural-Networks  --  AI  --  Mashine-learning  --  Algorithms
-│   ├── Perl
-│   └── Ruby
-|
-├── Notable Projects
-|   ├── Youtube/TikTok Viewbot
-|   ├── My website/s (terrifictable.github.io | terrifictable.xyz | terrifictable.pw)
-|   ├── My code bin
-|   └── Roblox Account Generator
-|
-├── Full_Stack_Dev.txt
-├── info.md
-├── terrifictable.md
-└── social_media.md
-
-3 directory, 20 files
-
-
-➜ ./terrifictable/info.md ~ git:(master) ✗ cat terrifictable.md
-"""
-Personal "Challanges":
-  ・Use other languages then Python
-  ・Learn more than the basics of:
-     ・Ruby
-     ・Perl
-     ・C/C++
-     ・Lua
-     ・Kotlin
-
-Notes:
-  ・I'm the king of unfinished projects.
-"""
-➜ ./terrifictable/info.md ~ git:(master) ✗
-
-➜ ./terrifictable/info.md ~ git:(master) ✗ cat info.md
-"""
-Public code does not reflect experience or skill level.
-I am not accountable for any of your actions.
-"""
-➜ ./terrifictable/info.md ~ git:(master) ✗
-
-
-➜ ./terrifictable/readme.md ~ git:(master) ✗ cat social_media.md
-"""
-  ・YouTube  -> youtube.com/channel/UCZvMGjd_O0JNO6sb25BvguQ
-  ・Twitter  -> twitter.com/TerrificTable
-  ・Website  -> terrifictable.github.io/ -- terrifictable.xyz
-  ・Discord  -> TerrificTable55#6998
-"""  
-➜ ./terrifictable/readme.md ~ git:(master) ✗ 
-``` 
-<!-- Hi -->
+  <img align="center" alt="TerrificTable's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=TerrificTable&&show_icons=true&theme=tokyonight&layout=compact" />
+  </br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TerrificTable&show_icons=true&theme=tokyonight&layout=compact" alt="TerrificTable" />
+</details>
