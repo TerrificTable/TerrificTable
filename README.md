@@ -33,6 +33,11 @@ public class GitHub {
         contact[0] = "Discord: TerrificTable55#6998";
         contact[1] = "Twitter: @TerrificTable";
         
+        links[0]    = "https://linktr.ee/TerrificTable55";
+        links[1]    = "https://terrifictable.github.io";
+        links[2]    = "https://terrifictable.xyz";
+        links[3]    = "https://terrifictable.pw";
+        
         languages[0]    = "Python";
         languages[1]    = "Java";
         languages[2]    = "C / C++";
@@ -48,10 +53,6 @@ public class GitHub {
         
         projects[0] = "Currently Nothing Special...";
         
-        links[0]    = "https://linktr.ee/TerrificTable55";
-        links[1]    = "https://terrifictable.github.io";
-        links[2]    = "https://terrifictable.xyz";
-        links[3]    = "https://terrifictable.pw";
         tools[0]    = "IntelliJ IDEA";
         tools[1]    = "GoLand";
         tools[2]    = "CLion";
