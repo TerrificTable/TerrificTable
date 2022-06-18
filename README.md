@@ -51,7 +51,7 @@ public class GitHub {
         languages[10]   = "GoLang";
         languages[11]   = "VLang";
         
-        projects[0] = "Currently Nothing Special...";
+        projects[0] = "Trying to make a copy of Quake 2... and make a video Series about it on YouTube";
         
         tools[0]    = "IntelliJ IDEA";
         tools[1]    = "GoLand";
