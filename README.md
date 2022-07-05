@@ -15,7 +15,7 @@ package xyz.terrifictable;
 public class GitHub {
     public static String[] contact      = new String[2];
     public static String[] languages    = new String[12];
-    public static String[] projects     = new String[2];
+    public static String[] projects     = new String[1];
     public static String[] links        = new String[4];
     public static String[] tools        = new String[12];
 
@@ -51,8 +51,7 @@ public class GitHub {
         languages[10]   = "GoLang";
         languages[11]   = "VLang";
         
-        projects[0] = "Trying to make a Quake 2 like "game"... and make a video Series about it on YouTube";
-        projects[1] = "Making `lang`...";
+        projects[0]     = "Nothing...";
         
         tools[0]    = "IntelliJ IDEA";
         tools[1]    = "GoLand";
