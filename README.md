@@ -13,7 +13,7 @@
 package xyz.terrifictable;
 
 public class GitHub {
-    public static String[] contact      = new String[2];
+    public static String[] contact      = new String[3];
     public static String[] languages    = new String[12];
     public static String[] projects     = new String[1];
     public static String[] links        = new String[4];
@@ -32,6 +32,7 @@ public class GitHub {
 
         contact[0] = "Discord: TerrificTable55#6998";
         contact[1] = "Twitter: @TerrificTable";
+        contact[2] = "terrifictable@terrifictable.xyz";
         
         links[0]    = "https://linktr.ee/TerrificTable55";
         links[1]    = "https://terrifictable.github.io";
